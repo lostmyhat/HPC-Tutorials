@@ -23,7 +23,7 @@ tutorial: "OpenMP"
 
 ## OpenMP is not:
 
-* Meant for distributed memory parallel systems (by itself)
+* Intended for distributed memory parallel systems
 * Necessarily implemented identically by all vendors
 * Guaranteed to make the most efficient use of shared memory
 * Required to check for data dependencies, data conflicts, race conditions, or deadlocks
@@ -160,6 +160,10 @@ The table below chronicles the OpenMP API release history:
   <tr>
     <td class="tg-0lax">Nov 2020</td>
     <td class="tg-0lax">OpenMP 5.1</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax">Nov 2021</td>
+    <td class="tg-0lax">OpenMP 5.2</td>
   </tr>
 </tbody>
 </table>
